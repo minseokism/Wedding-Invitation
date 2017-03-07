@@ -165,7 +165,7 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding: 0 0;
 }
 
 /* Services */
@@ -253,4 +253,15 @@ footer {
 
 .pink {
     color: #ee57a6;
+}
+
+/* Navi */
+.kakaonavi {
+    background-color: #fae100
+}
+
+/* Navi */
+
+.navi {
+    padding: 20px 0;
 }
